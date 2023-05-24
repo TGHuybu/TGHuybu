@@ -29,3 +29,6 @@ No.
 <a href="https://www.facebook.com/ct.tghuy/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
