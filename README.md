@@ -19,13 +19,13 @@ I watch animes too! My favourite has got to be 'A Place Further than the Univers
 No.
 
 ## Reach me via...
-Emails:
+### Emails:
 - Faculty email: tghuy212@clc.fitus.edu.vn
 - University email: 21127307@student.hcmus.edu.vn
 - Personal work email: tonggiahuy191203@gmail.com
 - Personal email for various shenanigans: tonghuycantho@gmail.com
 
-Social links: 
+### Social links: 
 <a href="https://www.facebook.com/ct.tghuy/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
