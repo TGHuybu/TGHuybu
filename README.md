@@ -18,7 +18,12 @@ I watch animes too! My favourite has got to be 'A Place Further than the Univers
 ## 🏆 Do I have any notable achievement?
 No.
 
-## Reach
+## Reach me via...
+Emails:
+- Faculty email: tghuy212@clc.fitus.edu.vn
+- University email: 21127307@student.hcmus.edu.vn
+- Personal work email: tonggiahuy191203@gmail.com
+- Personal email for various shenanigans: tonghuycantho@gmail.com
 <!--
 **TGHuybu/TGHuybu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
