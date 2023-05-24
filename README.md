@@ -18,7 +18,7 @@ I watch animes too! My favourite has got to be 'A Place Further than the Univers
 ## 🏆 Do I have any notable achievement?
 No.
 
-## Reach me via...
+## 📫 Reach me via...
 ### Emails:
 - Faculty email: tghuy212@clc.fitus.edu.vn
 - University email: 21127307@student.hcmus.edu.vn
@@ -31,4 +31,10 @@ No.
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/tghuy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://myanimelist.net/profile/ghuy191203">
+  <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">
 </a>
