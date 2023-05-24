@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to my unprofessional profile :3 
+
+## 🤡 About me
+My name is Huy, I'm currently a student at the **Faculty of Information Technology at the University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in IT, it has been somewhat of my life long dream (actually ever since 11th grade) to use computers to study the universe!
+
+## 🔭 About my work
+You think I, an IT sophomore, am employed? Well then you'd be wrong, I go jobless...
+But on a serious note, I'm a research assistant for Dr. Dieu Nguyen of CRAL (Centre de Recherche Astrophysique de Lyon
 
 <!--
 **TGHuybu/TGHuybu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
