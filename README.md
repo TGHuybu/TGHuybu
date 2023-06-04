@@ -1,20 +1,19 @@
 # Welcome to my unprofessional profile :3 
-🎶 Here have some [tunes](https://www.youtube.com/watch?v=rDTFSD9K9dA)
+🎶 Please have some [tunes](https://www.youtube.com/watch?v=rDTFSD9K9dA) while you're here :DD!
 
 ## 🤡 About me
 My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in IT, it has been somewhat of my lifelong dream (actually ever since 11th grade) to use computers to study the universe!
 
 ## 🔭 About my work
-You think I, an IT sophomore, am employed? Well then you'd be wrong, I go jobless...\
-But on a serious note, I'm currently a research assistant for Dr. Dieu Nguyen of CRAL (Centre de Recherche Astrophysique de Lyon, France), where
+I'm currently a research assistant for Dr. Dieu Nguyen of CRAL (Centre de Recherche Astrophysique de Lyon, France), where
 I had the chance to *touch* some of the most interesting tools used in astrophysics research, and learn in one of the most interesting
-field of science: *✨ **P H Y S I C S** ✨*<sub><sup>much wow, i'm really bad at maths tho</sup></sub>
+field of science: PHYSICS!
 
 ## 🎶 Something personal
-I enjoy listening to music (mostly Japanese rock), I personally recommend these bands: 'ASIAN KUNG-FU GENERATION', 'kurayamisaka', and 'bungeitengoku',
+I enjoy listening to music (mostly Japanese rock), I personally recommend these bands: 'ASIAN KUNG-FU GENERATION', 'kurayamisaka', 'bungeitengoku',
+and 'Yorushika',
 please do feel free to check out my playlist of [good stuff](https://open.spotify.com/playlist/2CrWA3JsS5QzoBbQiOF3ZO?si=2ee2bf29b1784fb2).\
-I watch animes too! My favourite has got to be 'A Place Further than the Universe', really life-changing!\
-<sub><sup>I also like to lie down and cry myself to sleep in my free time</sup></sub>
+I watch animes too! My favourite has got to be 'A Place Further than the Universe', really life-changing!
 
 ## 🏆 Do I have any notable achievement?
 No.
