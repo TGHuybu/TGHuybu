@@ -26,6 +26,18 @@ field of science: PHYSICS!
 <a href="https://www.latex-project.org/">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</a>
+<a href="https://visualstudio.microsoft.com/">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server?rtc=1">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</a>
+<a href="">
+  <img src="">
+</a>
 
 ## 🎶 Something personal
 I enjoy listening to music (mostly Japanese rock), I personally recommend these bands: 'ASIAN KUNG-FU GENERATION', 'kurayamisaka', 'bungeitengoku',
