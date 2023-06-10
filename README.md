@@ -35,8 +35,19 @@ field of science: PHYSICS!
 <a href="https://www.microsoft.com/en-us/sql-server?rtc=1">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
-<a href="">
-  <img src="">
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+### Non-technical
+<a href="https://www.adobe.com/products/premiere.html">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+</a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+</a>
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </a>
 
 ## 🎶 Something personal
