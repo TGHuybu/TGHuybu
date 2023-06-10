@@ -9,6 +9,24 @@ I'm currently a research assistant for Dr. Dieu Nguyen of CRAL (Centre de Recher
 I had the chance to *touch* some of the most interesting tools used in astrophysics research, and learn in one of the most interesting
 field of science: PHYSICS!
 
+## 🛠 My skill set
+### Technical
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</a>
+<a href="https://html.spec.whatwg.org/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/TR/CSS/#css">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://www.latex-project.org/">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</a>
+
 ## 🎶 Something personal
 I enjoy listening to music (mostly Japanese rock), I personally recommend these bands: 'ASIAN KUNG-FU GENERATION', 'kurayamisaka', 'bungeitengoku',
 and 'Yorushika',
