@@ -2,10 +2,10 @@
 🎶 Please have some [tunes](https://www.youtube.com/watch?v=rDTFSD9K9dA) while you're here :DD!
 
 ## 🤡 About me
-My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in IT, it has been somewhat of my lifelong dream (actually ever since 11th grade) to use computers to study the universe!
+My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in Information Technology, it has been somewhat of my lifelong dream (actually ever since 11th grade) to use computers to study the universe!
 
 ## 🔭 About my work
-I'm currently an astrophysics research assistant, where I helped in scientific computing and data acquisition for future projects with the ELT.
+I'm currently a remote astrophysics research assistant, where I helped in scientific computing and data acquisition for future projects with the ELT.
 
 ## 🛠 My skill set
 ### Technical
