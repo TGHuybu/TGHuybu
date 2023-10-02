@@ -5,7 +5,8 @@
 My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in Information Technology, it has been somewhat of my lifelong dream (actually ever since 11th grade) to use computers to study the universe!
 
 ## 🔭 About my work
-I'm currently a remote astrophysics research assistant, where I helped in scientific computing and data acquisition for future projects with the ELT.
+I'm currently a remote astrophysics research assistant, where I help in data acquisition for future scientific projects with the *underconstruction* [ELT](https://elt.eso.org/)
+as well as other projects involving massive galaxies (and black holes?).
 
 ## 🛠 My skill set
 ### Technical
