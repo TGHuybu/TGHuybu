@@ -1,8 +1,9 @@
-# Welcome to my unprofessional profile :3 
+# Welcome to my profile!
 🎶 Please have some [tunes](https://www.youtube.com/watch?v=rDTFSD9K9dA) while you're here :DD!
 
 ## 🤡 About me
-My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. Even tho I'm doing a degree in Information Technology, it has been somewhat of my lifelong dream (actually ever since 11th grade) to use computers to study the universe!
+My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City, Vietnam**. I major in *computer vision* and I have a dream of
+being able to use my skills and knowledge with computer and algorithms to study the universe!
 
 ## 🔭 About my work
 I'm currently a remote astrophysics research assistant, where I help in data acquisition for future scientific projects with the *underconstruction* [ELT](https://elt.eso.org/)
@@ -10,11 +11,11 @@ as well as other projects involving massive galaxies (and black holes?).
 
 ## 🛠 My skill set
 ### Technical
-<a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 <a href="https://html.spec.whatwg.org/">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -56,7 +57,7 @@ please do feel free to check out my playlist of [good stuff](https://open.spotif
 I watch animes too! My favourite has got to be 'A Place Further than the Universe', really life-changing!
 
 ## 🏆 Do I have any notable achievement?
-No.
+No. Not *yet*...
 
 ## 📫 Reach me via...
 ### Emails:
