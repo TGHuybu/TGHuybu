@@ -61,10 +61,8 @@ No. Not *yet*...
 
 ## 📫 Reach me via...
 ### Emails:
-- Faculty email: tghuy212@clc.fitus.edu.vn
-- University email: 21127307@student.hcmus.edu.vn
+- Faculty work email: tghuy212@clc.fitus.edu.vn
 - Personal work email: tonggiahuy191203@gmail.com
-- Personal email for various shenanigans: tonghuycantho@gmail.com
 
 ### Social links: 
 <a href="https://www.facebook.com/ct.tghuy/">
