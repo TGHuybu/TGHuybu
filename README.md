@@ -50,15 +50,6 @@ as well as other projects involving massive galaxies (and black holes?).
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </a>
 
-## 🎶 Something personal
-I enjoy listening to music (mostly Japanese rock), I personally recommend these bands: 'ASIAN KUNG-FU GENERATION', 'kurayamisaka', 'bungeitengoku',
-and 'Yorushika',
-please do feel free to check out my playlist of [good stuff](https://open.spotify.com/playlist/2CrWA3JsS5QzoBbQiOF3ZO?si=2ee2bf29b1784fb2).\
-I watch animes too! My favourite has got to be 'A Place Further than the Universe', really life-changing!
-
-## 🏆 Do I have any notable achievement?
-No. Not *yet*...
-
 ## 📫 Reach me via...
 ### Emails:
 - Faculty work email: tghuy212@clc.fitus.edu.vn
