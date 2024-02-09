@@ -6,7 +6,7 @@ My name is Huy, I'm a student at the **University of Science in Ho Chi Minh City
 being able to use my skills and knowledge with computer and algorithms to study the universe!
 
 ## 🔭 About my work
-I'm currently a remote astrophysics research assistant, where I help in data acquisition, computation and visual data analysis in projects involving spiral galaxies morphology/structure (and black holes?).
+I am currently a remote astrophysics research assistant, where I help in data acquisition, computation and visual data analysis in projects involving spiral galaxies morphology/structure (and black holes?).
 
 ## 🛠 My skill set
 ### Technical
