@@ -16,12 +16,6 @@ I am currently a remote astrophysics research assistant, where I help in data ac
 <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
-<a href="https://html.spec.whatwg.org/">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://www.w3.org/TR/CSS/#css">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
 <a href="https://www.latex-project.org/">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </a>
@@ -31,11 +25,14 @@ I am currently a remote astrophysics research assistant, where I help in data ac
 <a href="https://visualstudio.microsoft.com/">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server?rtc=1">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://html.spec.whatwg.org/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/TR/CSS/#css">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
 ### Non-technical
